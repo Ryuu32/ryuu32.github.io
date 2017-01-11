@@ -18,3 +18,8 @@ body{
 .navbar-inverse .navbar-brand{
 	color: white;
 }
+
+.judul{
+	font-family: 'Cherry Swash', cursive;
+	text-align: center;
+}
